@@ -1,0 +1,5 @@
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Get_Villian's_Name\bin\Debug\Get_Villian's_Name.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Get_Villian's_Name\bin\Debug\Get_Villian's_Name.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Get_Villian's_Name\bin\Debug\Get_Villian's_Name.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Get_Villian's_Name\obj\Debug\Get_Villian's_Name.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Get_Villian's_Name\obj\Debug\Get_Villian's_Name.pdb

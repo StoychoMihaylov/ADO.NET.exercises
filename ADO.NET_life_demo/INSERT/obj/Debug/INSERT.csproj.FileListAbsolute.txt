@@ -1,0 +1,5 @@
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\INSERT\bin\Debug\INSERT.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\INSERT\bin\Debug\INSERT.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\INSERT\bin\Debug\INSERT.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\INSERT\obj\Debug\INSERT.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\INSERT\obj\Debug\INSERT.pdb

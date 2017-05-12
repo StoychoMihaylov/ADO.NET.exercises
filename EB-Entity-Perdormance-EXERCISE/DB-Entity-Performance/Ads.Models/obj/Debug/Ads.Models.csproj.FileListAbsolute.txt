@@ -1,0 +1,5 @@
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Models\bin\Debug\Ads.Models.dll
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Models\bin\Debug\Ads.Models.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Models\obj\Debug\Ads.Models.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Models\obj\Debug\Ads.Models.dll
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Models\obj\Debug\Ads.Models.pdb

@@ -1,0 +1,10 @@
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\EnityFramework\bin\Debug\EnityFramework.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\EnityFramework\bin\Debug\EnityFramework.exe
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\EnityFramework\bin\Debug\EnityFramework.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\EnityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\EnityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\EnityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\EnityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\EnityFramework\obj\Debug\EnityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\EnityFramework\obj\Debug\EnityFramework.exe
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\EnityFramework\obj\Debug\EnityFramework.pdb

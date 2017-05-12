@@ -1,0 +1,5 @@
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ChangeTownName's\bin\Debug\ChangeTownName's.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ChangeTownName's\bin\Debug\ChangeTownName's.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ChangeTownName's\bin\Debug\ChangeTownName's.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ChangeTownName's\obj\Debug\ChangeTownName's.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ChangeTownName's\obj\Debug\ChangeTownName's.pdb

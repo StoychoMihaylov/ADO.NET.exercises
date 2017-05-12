@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni.Client", "SoftUni.Client\SoftUni.Client.csproj", "{1C3A5B16-6ED3-407A-8532-BF6BAFD82A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softuni.Models", "Models\Softuni.Models.csproj", "{203BE49E-5505-4931-A514-7EC3CC4E3518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softuni.Data", "Softuni.Data\Softuni.Data.csproj", "{63C4ADBF-1D54-4A1E-BE43-5AB8110C8355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C3A5B16-6ED3-407A-8532-BF6BAFD82A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3A5B16-6ED3-407A-8532-BF6BAFD82A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3A5B16-6ED3-407A-8532-BF6BAFD82A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3A5B16-6ED3-407A-8532-BF6BAFD82A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203BE49E-5505-4931-A514-7EC3CC4E3518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203BE49E-5505-4931-A514-7EC3CC4E3518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203BE49E-5505-4931-A514-7EC3CC4E3518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203BE49E-5505-4931-A514-7EC3CC4E3518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C4ADBF-1D54-4A1E-BE43-5AB8110C8355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C4ADBF-1D54-4A1E-BE43-5AB8110C8355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C4ADBF-1D54-4A1E-BE43-5AB8110C8355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C4ADBF-1D54-4A1E-BE43-5AB8110C8355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

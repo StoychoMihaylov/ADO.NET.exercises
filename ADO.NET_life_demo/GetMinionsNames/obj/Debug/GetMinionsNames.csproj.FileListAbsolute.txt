@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\GetMinionsNames\bin\Debug\GetMinionsNames.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\GetMinionsNames\bin\Debug\GetMinionsNames.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\GetMinionsNames\bin\Debug\GetMinionsNames.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\GetMinionsNames\obj\Debug\GetMinionsNames.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\GetMinionsNames\obj\Debug\GetMinionsNames.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\GetMinionsNames\obj\Debug\GetMinionsNames.pdb

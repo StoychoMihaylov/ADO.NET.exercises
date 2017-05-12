@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\ADO.NET\MiniORM\MiniORM\bin\Debug\MiniORM.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\MiniORM\MiniORM\bin\Debug\MiniORM.exe
+C:\Users\Stoycho\Desktop\ADO.NET\MiniORM\MiniORM\bin\Debug\MiniORM.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\MiniORM\MiniORM\obj\Debug\MiniORM.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\MiniORM\MiniORM\obj\Debug\MiniORM.exe
+C:\Users\Stoycho\Desktop\ADO.NET\MiniORM\MiniORM\obj\Debug\MiniORM.pdb

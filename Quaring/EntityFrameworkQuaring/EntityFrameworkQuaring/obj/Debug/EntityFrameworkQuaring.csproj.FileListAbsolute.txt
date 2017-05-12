@@ -1,0 +1,16 @@
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\bin\Debug\EntityFrameworkQuaring.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\bin\Debug\EntityFrameworkQuaring.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\bin\Debug\EntityFrameworkQuaring.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\obj\Debug\EntityFrameworkQuaring.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\obj\Debug\EntityFrameworkQuaring.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\obj\Debug\EntityFrameworkQuaring.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\obj\Debug\EntityFrameworkQuaring.Migrations.InitialCreate.resources
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\obj\Debug\EntityFrameworkQuaring.csproj.GenerateResource.Cache
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\obj\Debug\EntityFrameworkQuaring.Migrations.ADDAgeinPerson.resources
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\obj\Debug\EntityFrameworkQuaring.Migrations.AddTownId.resources
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Quaring\EntityFrameworkQuaring\EntityFrameworkQuaring\bin\Debug\EntityFramework.Extended.xml

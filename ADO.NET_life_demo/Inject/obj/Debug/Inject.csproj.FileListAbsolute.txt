@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Inject\bin\Debug\Inject.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Inject\bin\Debug\Inject.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Inject\bin\Debug\Inject.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Inject\obj\Debug\Inject.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Inject\obj\Debug\Inject.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\Inject\obj\Debug\Inject.pdb

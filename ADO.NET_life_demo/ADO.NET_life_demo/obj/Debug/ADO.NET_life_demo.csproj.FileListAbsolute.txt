@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ADO.NET_life_demo\bin\Debug\ADO.NET_life_demo.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ADO.NET_life_demo\bin\Debug\ADO.NET_life_demo.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ADO.NET_life_demo\bin\Debug\ADO.NET_life_demo.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ADO.NET_life_demo\obj\Debug\ADO.NET_life_demo.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ADO.NET_life_demo\obj\Debug\ADO.NET_life_demo.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\ADO.NET_life_demo\obj\Debug\ADO.NET_life_demo.pdb

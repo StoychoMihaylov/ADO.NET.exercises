@@ -1,0 +1,14 @@
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\SoftUni.Client.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\SoftUni.Client.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\SoftUni.Client.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\obj\Debug\SoftUni.Client.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\obj\Debug\SoftUni.Client.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\obj\Debug\SoftUni.Client.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\Models.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\Softuni.Data.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\Models.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\Softuni.Data.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Best Practices\SoftUni\SoftUni.Client\bin\Debug\EntityFramework.SqlServer.xml

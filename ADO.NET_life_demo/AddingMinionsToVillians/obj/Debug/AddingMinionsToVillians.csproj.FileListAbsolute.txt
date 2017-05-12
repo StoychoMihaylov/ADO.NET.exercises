@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\AddingMinionsToVillians\bin\Debug\AddingMinionsToVillians.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\AddingMinionsToVillians\bin\Debug\AddingMinionsToVillians.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\AddingMinionsToVillians\bin\Debug\AddingMinionsToVillians.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\AddingMinionsToVillians\obj\Debug\AddingMinionsToVillians.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\AddingMinionsToVillians\obj\Debug\AddingMinionsToVillians.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\AddingMinionsToVillians\obj\Debug\AddingMinionsToVillians.pdb

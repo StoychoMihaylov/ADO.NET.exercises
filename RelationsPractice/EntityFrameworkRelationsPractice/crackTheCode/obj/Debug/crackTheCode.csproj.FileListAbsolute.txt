@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\crackTheCode\bin\Debug\crackTheCode.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\crackTheCode\bin\Debug\crackTheCode.exe
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\crackTheCode\bin\Debug\crackTheCode.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\crackTheCode\obj\Debug\crackTheCode.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\crackTheCode\obj\Debug\crackTheCode.exe
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\crackTheCode\obj\Debug\crackTheCode.pdb

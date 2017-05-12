@@ -1,0 +1,10 @@
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\PetShopDB\bin\Debug\PetShopDB.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\PetShopDB\bin\Debug\PetShopDB.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\PetShopDB\bin\Debug\PetShopDB.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\PetShopDB\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\PetShopDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\PetShopDB\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\PetShopDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\PetShopDB\obj\Debug\PetShopDB.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\PetShopDB\obj\Debug\PetShopDB.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\PetShopDB\obj\Debug\PetShopDB.pdb

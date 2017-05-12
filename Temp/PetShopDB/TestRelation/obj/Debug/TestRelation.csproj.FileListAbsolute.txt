@@ -1,0 +1,15 @@
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\bin\Debug\TestRelation.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\bin\Debug\TestRelation.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\bin\Debug\TestRelation.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\obj\Debug\TestRelation.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\obj\Debug\TestRelation.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\obj\Debug\TestRelation.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\obj\Debug\TestRelation.Migrations.InitialCreate.resources
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\obj\Debug\TestRelation.csproj.GenerateResource.Cache
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\obj\Debug\TestRelation.Migrations.AddSchoolStudentStudentAddressSubject.resources
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\obj\Debug\TestRelation.Migrations.Gosh.resources
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\TestRelation\obj\Debug\TestRelation.Migrations.AddTown.resources

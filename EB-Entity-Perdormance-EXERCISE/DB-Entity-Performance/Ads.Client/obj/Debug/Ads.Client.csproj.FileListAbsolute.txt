@@ -1,0 +1,14 @@
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\Ads.Client.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\Ads.Client.exe
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\Ads.Client.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\Ads.Data.dll
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\Ads.Models.dll
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\Ads.Data.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\Ads.Models.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\obj\Debug\Ads.Client.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\obj\Debug\Ads.Client.exe
+C:\Users\Stoycho\Desktop\ADO.NET\EB-Entity-Perdormance-EXERCISE\DB-Entity-Performance\Ads.Client\obj\Debug\Ads.Client.pdb

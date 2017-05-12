@@ -1,0 +1,5 @@
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\SELECT\bin\Debug\SELECT.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\SELECT\bin\Debug\SELECT.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\SELECT\bin\Debug\SELECT.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\SELECT\obj\Debug\SELECT.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\SELECT\obj\Debug\SELECT.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\CREATE_TABLE\bin\Debug\CREATE_TABLE.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\CREATE_TABLE\bin\Debug\CREATE_TABLE.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\CREATE_TABLE\bin\Debug\CREATE_TABLE.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\CREATE_TABLE\obj\Debug\CREATE_TABLE.exe
+C:\Users\Stoycho\Desktop\ADO.NET\ADO.NET_life_demo\CREATE_TABLE\obj\Debug\CREATE_TABLE.pdb

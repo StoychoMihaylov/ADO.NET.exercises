@@ -1,0 +1,14 @@
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\bin\Debug\SchoolDB.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\bin\Debug\SchoolDB.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\bin\Debug\SchoolDB.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\obj\Debug\SchoolDB.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\obj\Debug\SchoolDB.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\obj\Debug\SchoolDB.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\obj\Debug\SchoolDB.Migrations.InitialCreate.resources
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\obj\Debug\SchoolDB.csproj.GenerateResource.Cache
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\obj\Debug\SchoolDB.Migrations.StudentAgeAdded.resources
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\SchoolDB\obj\Debug\SchoolDB.Migrations.StudantAddReguiredName.resources

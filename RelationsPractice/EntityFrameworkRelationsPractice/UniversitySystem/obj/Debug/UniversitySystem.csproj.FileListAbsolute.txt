@@ -1,0 +1,1 @@
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\UniversitySystem\bin\Debug\UniversitySystem.exe.config

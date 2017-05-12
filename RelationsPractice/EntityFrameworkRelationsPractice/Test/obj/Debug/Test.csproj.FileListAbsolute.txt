@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\Test\bin\Debug\Test.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\Test\bin\Debug\Test.exe
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\Test\bin\Debug\Test.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\Test\obj\Debug\Test.exe
+C:\Users\Stoycho\Desktop\ADO.NET\RelationsPractice\EntityFrameworkRelationsPractice\Test\obj\Debug\Test.pdb

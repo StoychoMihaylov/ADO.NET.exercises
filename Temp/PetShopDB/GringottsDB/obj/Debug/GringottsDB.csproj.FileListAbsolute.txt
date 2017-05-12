@@ -1,0 +1,14 @@
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\bin\Debug\GringottsDB.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\bin\Debug\GringottsDB.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\bin\Debug\GringottsDB.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\obj\Debug\GringottsDB.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\obj\Debug\GringottsDB.exe
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\obj\Debug\GringottsDB.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\obj\Debug\GringottsDB.Migrations.InitialCreate.resources
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\obj\Debug\GringottsDB.csproj.GenerateResource.Cache
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\obj\Debug\GringottsDB.Migrations.AddTableUser.resources
+C:\Users\Stoycho\Desktop\ADO.NET\Temp\PetShopDB\GringottsDB\obj\Debug\GringottsDB.Migrations.ChangeAgePropartyWhitRange.resources

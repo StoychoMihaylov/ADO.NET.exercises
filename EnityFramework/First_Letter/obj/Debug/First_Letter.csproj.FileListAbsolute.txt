@@ -1,0 +1,10 @@
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\First_Letter\bin\Debug\First_Letter.exe.config
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\First_Letter\bin\Debug\First_Letter.exe
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\First_Letter\bin\Debug\First_Letter.pdb
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\First_Letter\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\First_Letter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\First_Letter\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\First_Letter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\First_Letter\obj\Debug\First_Letter.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\First_Letter\obj\Debug\First_Letter.exe
+C:\Users\Stoycho\Desktop\ADO.NET\EnityFramework\First_Letter\obj\Debug\First_Letter.pdb
